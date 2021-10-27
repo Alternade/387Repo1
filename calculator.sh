@@ -4,5 +4,6 @@ echo "Enter another number"
 read b
 sum=$(($a+$b))
 echo "Sum is $sum"
+sub=$(($a-$b))
 
 
